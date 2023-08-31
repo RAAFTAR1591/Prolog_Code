@@ -1,0 +1,2 @@
+male(ram).
+female(sita).
